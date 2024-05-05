@@ -1,6 +1,6 @@
 # AVL-tree-and-Queue
 # Overview
-- The Electricity Records Management System is designed to efficiently manage electricity records records using AVL trees and queues. It provides functionalities to insert, delete, search, and update electricity  records, as well as generate reports based on various criteria.
+- The Electricity Records Management System is designed to efficiently manage electricity records records using AVL trees and queues. It provides functionalities to insert, delete, search, and update electricity  records, as well as generate reports for the data.
 
 # Features
 - AVL Tree Implementation: Utilizes AVL trees for efficient storage and retrieval of electricity records.
